@@ -34,7 +34,7 @@ and not just at the end.
 Note, with this prompt, you may need to edit the generated text to remove line breaks, and to remove any hashtags that
 are not relevant to your video.
 
-### Step 2: Generating a Facebook post
+### Step 3: Generating a Facebook post
 
 ```textmate
 Please think like an expert in Facebook SEO and Social Media Engagement. Please write a very long caption for a Facebook 
@@ -47,7 +47,7 @@ Please include the following hashtags exactly once each:
 Please include any other hashtags you think are relevant. Please place hashtags throughout the body of the description, 
 and not just at the end.
 ```
-### Step 2: Generating a Twitter post
+### Step 4: Generating a Twitter post
 
 ```textmate
 Please think like an expert in Twitter SEO and Social Media Engagement. Please write Twitter post linking to this video. 
