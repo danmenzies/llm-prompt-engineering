@@ -37,19 +37,17 @@ Please avoid the following keyword phrases:
 Please include the following hashtags exactly once each:
 {paste your hashtags here}
 
-Please include any other hashtags you think are relevant. Please place hashtags throughout the body of the description, 
-and not just at the end.
+Please include any other hashtags you think are relevant. Please place hashtags throughout the body of the description, and not just at the end.
 ```
 
 ### Step 3 (Optional): Generating a Description Introduction
 
-If the previous step generated a description that is a little short, you can use this prompt to generate a short
+If the previous step generated a description that is a little short, you can use this prompt to generate a short 
 introduction. This will generate a one-paragraph introduction that can be placed at the start of the video
 description; and **may** increase the SEO score of your video.
 
 ```textmate
-Please think like an expert in YouTube SEO and Engagement. Please write a two sentence introduction for the YouTube
-description of this video.
+Please think like an expert in YouTube SEO and Engagement. Please write a two sentence introduction for the YouTube description of this video.
 
 Please include the following keyword phrases exactly once each:
 {paste your additional keywords here}
