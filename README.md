@@ -7,6 +7,7 @@ have largely been tuned to work on ChatGPT 4, using the *Browser* version of the
 
 1. [YouTube Long SEO Description](youtube/long-description.md)
 2. [Social Media Posts about Videos](youtube/social-media-posts.md)
+3. [Hashtag Finder / Generator](youtube/find-relevant-hashtags.md)
 
 ### SEO Helpers
 
