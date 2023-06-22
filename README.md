@@ -13,7 +13,11 @@ have largely been tuned to work on ChatGPT 4, using the *Browser* version of the
 
 1. [Web Page Meta Tags](seo/meta-tags.md)
 
-## Working in Progress
+### Content Generation
+
+1. [Blog Article](content/blog-article.md)
+
+## Work in Progress
 
 As understanding of LLM's improves, these prompts will be updated to reflect the latest best practices. 
 
