@@ -63,7 +63,7 @@ If you're struggling with titles, this can also help:
 > 
 > Please use at exactly 3 of these keyword phrases in the title:<br>
 > `{paste your 3 most relevant tags here}`<br>
-> `{paste your avoid keywords here}`
+> `{paste your additional keywords here}`
 > 
 > You may also compound keyword phrases to make your title. For example, if the phrases 'stock market', 'stock market news', 'us stock market' were in the list, you could use 'The latest US Stock Market News' to capture all three keyword phrases
 > 
