@@ -37,5 +37,31 @@ This prompt creates an SEO friendly blog article. Before getting started you wil
 > * Cross-link to no more than 3 of the provided articles, and make sure that these links are the only ones present in the blog post.
 > * Write the blog in an essay style with a clear introduction, body, and conclusion.
 > * Generate the content in Markdown format, with the blog starting at the `<h2>` level.
->
-> Let's get started.
+
+### SEO & User Engagement
+
+If you're feeling particularly fancy, you can also use the following prompts to generate additional tags and helpers for the article:
+
+**Opening Hook:**
+
+This is great to use as a tag line or sub-title on the page.
+
+>Please think like an expert in engagement. Please create a 2 sentence hook for this article.
+
+**Key Points:**
+
+Similar to the way the Guardian summarises articles, this prompt will generate a list of key points for the article.
+
+> Please think like an expert in engagement. Please create an unordered list containing the key points for this article. Each list item should be less than 10 words. There should be no more than 5 list items.
+
+**Featured Image Prompt:**
+
+This will make it easier to search for a suitable image for the article.
+
+> Please think like an expert in engagement. Please describe the featured image for this article. Please suggest a keyword search for use in Pexels, Pixabay or Adobe Stock.
+ 
+**Target Keyword Phrase**
+
+This will generate a list of keyword phrases this article might target. It can then be used to refine article content down for a specific phrase or niche.
+
+> Please think like an expert in Google SEO. Please suggest a focus keyword phrase. Please suggest a list 10 of article tags.
